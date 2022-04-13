@@ -1,6 +1,6 @@
 ### Oi, eu sou o Alan 👻
 
-- 💼 Atualmente trabalho na SX negócios, como especialista de atendimento. 
+- 💼 Atualmente trabalho na GMAD Madcentro Sorocaba, como auxiliar de TI.
 - 🎓 Estudo Analise e Desenvolvimento de Sistemas na Cruzeiro do Sul (EAD).
 - 🌱 Estudo o front-end, principalmente as seguintes linguagens: HTML | CSS | JAVASCRIPT | ANGULAR.
 - 😄 Pronomes: Ele/Dele
