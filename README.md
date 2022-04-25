@@ -3,8 +3,9 @@
 - 💼 Atualmente trabalho na GMAD Madcentro Sorocaba, como Auxiliar de TI.
 - 🎓 Estudo Analise e Desenvolvimento de Sistemas na Cruzeiro do Sul (EAD).
 - 🌱 Estudo o front-end, principalmente as seguintes linguagens: HTML | CSS | JAVASCRIPT | ANGULAR.
-- 😄 Pronomes: Ele/Dele
 - 🕹️ Gosto de jogar principalmente World of Warcraft (pela horda!) e me aventuro em alguns outros jogos que acho interessante.
+- 😄 Pronomes: Ele/Dele
+
 
 <div align="center">
   <a href="https://github.com/alancritelli">
