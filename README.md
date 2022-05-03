@@ -1,6 +1,6 @@
 ### Oi, eu sou o Alan 👻
 
-- 💼 Atualmente trabalho na GMAD Madcentro Sorocaba, como Auxiliar de TI.
+- 💼 Atualmente trabalho na GMAD Madcentro Sorocaba, como Tecnico de Help Desk
 - 🎓 Estudo Analise e Desenvolvimento de Sistemas na Cruzeiro do Sul (EAD).
 - 🌱 Estudo o front-end, principalmente as seguintes linguagens: HTML | CSS | JAVASCRIPT | ANGULAR.
 - 🕹️ Gosto de jogar principalmente World of Warcraft (pela horda!) e me aventuro em alguns outros jogos que acho interessante.
