@@ -1,7 +1,7 @@
 ### Oi, eu sou o Alan 👻
 
 - 💼 Atualmente trabalho na GMAD Madcentro Sorocaba, como Tecnico de Help Desk
-- 🎓 Estudo Analise e Desenvolvimento de Sistemas na Cruzeiro do Sul (EAD).
+- 🎓 Formado em Analise e Desenvolvimento de Sistemas pela Cruzeiro do Sul (EAD).
 - 🌱 Venho me aprimorando com o front-end, estudando principalmente as seguintes linguagens: JAVASCRIPT e REACT.
 - 🕹️ Gosto de jogar principalmente World of Warcraft (pela horda!) e me aventuro em alguns outros jogos que acho interessante.
 - 😄 Pronomes: Ele/Dele
