@@ -1,21 +1,10 @@
 ### Oi, eu sou o Alan 👻
 
-- 💼 Atualmente sou desenvolvedor BackEnd na empresa 2bebot
-- 🎓 Formado em Analise e Desenvolvimento de Sistemas pela Cruzeiro do Sul (EAD).
-- 🕹️ Gosto de jogar principalmente World of Warcraft (pela horda!) e me aventuro em alguns outros jogos que acho interessante.
-- 😄 Pronomes: Ele/Dele
-
 
 <div align="center">
   <a href="https://github.com/alancritelli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alancritelli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alancritelli&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="ahcc-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ahcc-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ahcc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
 <div align="center"> 
